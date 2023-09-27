@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rileycyeoman
 - 👀 I’m interested in robotics and embedded systems!
-- 🌱 I’m currently learning Rust and ROS
+- 🌱 I’m currently learning C++ and ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
