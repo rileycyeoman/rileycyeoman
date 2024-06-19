@@ -1,6 +1,6 @@
 Hi, I'm Riley Yeoman.  
-I am finishing my Master's in Robotics at the University of Minnesota. I specialize in **machine learning**, emphasizing computer vision and NLP with python and C++. Other skills include:
-= ROS / Gazebo
+I am finishing my Master's in Robotics at the University of Minnesota. I specialize in **machine learning**, emphasizing computer vision and NLP with python and C++. Other skills include:  
+- ROS / Gazebo
 - Unreal Engine 5
 - Solidworks
 - KiCAD
